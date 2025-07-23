@@ -4,6 +4,7 @@
 
 ## ✨ Özellikler
 
+
 - 🤖 **AI Powered**: OpenAI GPT-4 ile desteklenen akıllı renk üretimi
 - ⚡ **Anında Sonuç**: Hızlı ve etkili renk paleti oluşturma
 - 🎯 **Akıllı Öneriler**: Konseptinize uygun renk harmonileri
@@ -12,6 +13,7 @@
 - 🎉 **Tek Tıkla Kopyalama**: Hex kodlarını anında kopyalayın
 - 🇹🇷 **Türkçe Arayüz**: Tam Türkçe dil desteği
 - ✨ **Modern UI**: Glassmorphism ve 3D efektlerle görsel şölen
+
 
 ## 🚀 Teknolojiler
 
