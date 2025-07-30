@@ -1,7 +1,5 @@
 # 🎨 Renk Paleti - AI ile Güçlendirilmiş Renk Üreticisi
 
-> **Yapay zeka teknolojisi ile istediğiniz her konsept için mükemmel renk paletleri oluşturun!**
-
 ## ✨ Özellikler
 
 
